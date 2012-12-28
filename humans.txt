@@ -13,5 +13,6 @@
 	Standards: HTML5, CSS3,..                            
 	Components:                           
 	IDE: Sublime Text 2. Notepad
+	Version Control: Github
    
      
